@@ -11,4 +11,4 @@ header('Content-type: text/html; charset=utf-8');
  * window['setServiceListdUrl'] = "http://192.168.50.50:82/server";
  * start();
  */
-exit('{"login":[999,997,990],"serverlist":[{"name":"无天测试","serverlist":[{"originalSrvid":1,"srvid":1,"srvaddr":"121.41.123.129","id":1,"serverAlias":"s1","serverName":"登录试试","opentime":"2022-03-23 23:59:51","srvport":35317,"type":2,"pf":"yfbx"}]}]}');
+exit('{"login":[999,997,990],"serverlist":[{"name":"无天测试","serverlist":[{"originalSrvid":1,"srvid":1,"srvaddr":"47.242.72.145:8888","id":1,"serverAlias":"s1","serverName":"登录试试","opentime":"2022-03-23 23:59:51","srvport":35317,"type":2,"pf":"yfbx"}]}]}');
