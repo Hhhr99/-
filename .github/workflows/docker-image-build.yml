@@ -31,4 +31,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: ${{ secrets.DOCKER_HUB_USERNAME }}/my-php-app:latest
+        tags: ${{ secrets.DOCKER_HUB_USERNAME }}/chuanqi-php-proxy:latest
